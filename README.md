@@ -23,7 +23,7 @@ This project aims to develop a machine learning model capable of detecting wheth
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/panubhav2001/face-mask-detection-deep-learning.git
+   git clone [https://github.com/ayushguha-31/Face-Mask-detection.git](https://github.com/ayushguha-31/Face-Mask-detection.git)
    cd mask-detection
 
 ## Dataset
